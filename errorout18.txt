@@ -1,0 +1,1 @@
+Error: incorrect symbol during procedure declaration
